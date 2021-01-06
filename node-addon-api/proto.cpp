@@ -23,7 +23,7 @@ Napi::Object Proto::Init(Napi::Env env, Napi::Object exports) {
 
     auto constructor = new Napi::FunctionReference();
     *constructor = Napi::Persistent(func);
-    constructor->SuppressDestruct();
+//    constructor->SuppressDestruct();
     env.SetInstanceData(constructor);
     exports.Set("Proto", func);
     exports.Set("hello", Napi::Function::New(env, Method));

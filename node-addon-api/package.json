@@ -9,7 +9,7 @@
     "node-addon-api": "^3.0.0"
   },
   "scripts": {
-    "install": "cmake-js compile -D",
+    "install": "cmake-js compile",
     "test": "node hello.js"
   }
 }
