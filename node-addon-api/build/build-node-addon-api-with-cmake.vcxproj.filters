@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lilonglong\source\repos\electron-quick-start-master\electron-quick-start-master\node-addon-api\proto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lilonglong\AppData\Roaming\nvm\v14.15.1\node_modules\cmake-js\lib\cpp\win_delay_load_hook.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lilonglong\source\repos\electron-quick-start-master\electron-quick-start-master\node-addon-api\proto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lilonglong\source\repos\electron-quick-start-master\electron-quick-start-master\node-addon-api\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0FA6F01A-177A-309D-BAC4-AA905CADA68C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14E035D6-9441-33EE-B577-5EC0AFCDD112}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

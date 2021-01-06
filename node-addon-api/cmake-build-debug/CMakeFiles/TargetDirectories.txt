@@ -1,0 +1,3 @@
+C:/Users/lilonglong/Desktop/node-addon-api/cmake-build-debug/CMakeFiles/build-node-addon-api-with-cmake.dir
+C:/Users/lilonglong/Desktop/node-addon-api/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lilonglong/Desktop/node-addon-api/cmake-build-debug/CMakeFiles/rebuild_cache.dir
